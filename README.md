@@ -21,7 +21,7 @@ Esse projeto é uma refatoração do projeto original, uma vez que eu não estav
 
 ## 🔗 Acesso 
 
-Para acessar a Calculadora, basta <a href="#">clicar aqui</a>!
+Para acessar a Calculadora, basta <a href="https://calculadora-react-swart.vercel.app/">clicar aqui</a>!
 
 ----
 
